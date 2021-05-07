@@ -1,9 +1,8 @@
-import React from 'react'
+import React from 'react';
+import { HomePage } from "./pages/HomePage/HomePage";
 
 export const MyApp = () => {
     return (
-        <div>
-            <h1>Hello World</h1>
-        </div>
+       <HomePage />
     )
 }

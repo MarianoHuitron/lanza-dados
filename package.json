@@ -9,6 +9,9 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "socket.io-client": "^4.0.1",
+    "sweetalert2": "^10.16.7",
+    "sweetalert2-react-content": "^3.3.2",
     "web-vitals": "^1.1.1"
   },
   "scripts": {
